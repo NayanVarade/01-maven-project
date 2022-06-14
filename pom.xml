@@ -19,6 +19,10 @@
     <artifactId>spring-core</artifactId>
     <version>5.2.22.RELEASE</version>
 </dependency>
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-jdbc</artifactId>
+    <version>5.2.22.RELEASE</version>
   </dependencies>
   <build>
     <finalName>01-maven-web-app</finalName>
